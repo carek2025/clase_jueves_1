@@ -1,5 +1,6 @@
-a=20
-b=13
+a=int(input("ingrese el primer numero :"))
+b=int(input("ingrese el segundo numero"))
 print(f"la suma es {a+b}")
 print(f"la resta es {a-b}")
 print(f"la multiplicacion es {a*b}")
+print(f"la division es {a/b}")
